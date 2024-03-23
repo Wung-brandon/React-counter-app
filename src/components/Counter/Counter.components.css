@@ -1,0 +1,30 @@
+body{
+    background-color: darkslategrey;
+}
+.container{
+    margin: 20rem auto;
+}
+h1{
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.add{
+    margin-left: 1rem;
+    margin-right: 0.4rem;
+    background-color: gold;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-align: center;
+    width: 5%;
+}
+.minus{
+    width: 5%;
+    background-color: gold;
+    color: red;
+    font-weight: bold;
+    font-size: 1.1rem;
+    cursor: pointer;
+    text-align: center;
+}
